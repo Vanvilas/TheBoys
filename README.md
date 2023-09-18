@@ -1,5 +1,5 @@
 # TheBoys
-Landing Page do The Boys Responsiva
+Landing Page do The Boys
 </br>
 </br>
 Projeto final usando HTML e CSS:
